@@ -26,12 +26,12 @@ body {
 }
 
 .content {
-    display: flex; /* Flex: propriedade com várias facilidades para posicionamento de elementos */
+    display: flex;
     height: 100%;
     width: 100%;
     background-color: #eee;
-    align-items: center; /* Alinha horizontalmente */
-    padding: 3rem; /* 3rem = 30px, pois o font-size do HTML (elemento raiz) é = 10px */
+    align-items: center;
+    padding: 3rem;
 }
 
 .products {
